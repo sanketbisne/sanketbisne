@@ -84,13 +84,16 @@ My work bridges **enterprise cloud infrastructure** and **Agentic AI**—buildin
 
 Read all articles on [**Medium (`@sanketbisne`)**](https://medium.com/@sanketbisne):
 
-- *Build a Custom MCP Server on Cloud Run and Make Gemini-CLI Work for You*
-- *Building Custom AI Agents for Cloud Operations with Google ADK & MCP*
-- *Cloud Spanner Omni on Google Kubernetes Engine (GKE)*
-- *Kubernetes Observability Supercharged with Gemini & Grafana*
-- *Automating DBT Pipelines on Google Cloud Platform*
-- *Part 1: Switching from Terraform to OpenTofu and Automating your infrastructure on Google Cloud*
-- *Automating alert creation with Terraform config-driven import in Google Cloud*
+- [**Stop Scraping the DOM: Build Browser-Native AI Agents with WebMCP and Google ADK**](https://medium.com/google-cloud/stop-scraping-the-dom-build-browser-native-ai-agents-with-webmcp-and-google-adk-90593f7444d6) *(Nov 2026 • Google Cloud - Community)*
+- [**Build a Custom MCP Server on Cloud Run and Make Gemini-CLI Work for You**](https://medium.com/google-cloud/build-custom-mcp-server-cloud-run-gemini-cli-4de8e2ead52a) *(Oct 2025 • Google Cloud - Community)*
+- [**Part 1: Smarter Containers with Docker AI and Ask Gordon**](https://medium.com/@sanketbisne/part1-smarter-containers-with-docker-ai-and-ask-gordon-93434d950b49) *(May 2025 • Medium)*
+- [**Automating DBT Pipelines on Google Cloud Platform**](https://medium.com/google-cloud/automating-dbt-pipelines-on-google-cloud-platform-%EF%B8%8F-5d7497f7b7c3) *(May 2025 • Google Cloud - Community)*
+- [**Part 1: Switching from Terraform to OpenTofu and Automating your infrastructure on Google Cloud**](https://medium.com/google-cloud/part1-switching-from-terraform-to-opentofu-and-automating-your-infrastructure-on-google-cloud-8307ac6825e0) *(Sep 2024 • Google Cloud - Community)*
+- [**Automating alert creation with Terraform config-driven import in Google Cloud**](https://medium.com/google-cloud/automating-alert-creation-with-terraform-config-driven-import-in-google-cloud-%EF%B8%8F-1c9093ddd79f) *(Jul 2023 • Google Cloud - Community)*
+- [**Automating the Azure Private DNS Migration to GCP Cloud DNS**](https://medium.com/google-cloud/automating-the-azure-private-dns-migration-to-gcp-cloud-dns-637bdee31619) *(Apr 2023 • Google Cloud - Community)*
+- [**Approach 2: Mirroring CSR and GitLab Repository to Create Cloud Build Triggers**](https://medium.com/google-cloud/approach2-mirroring-csr-and-gitlab-repository-to-create-cloud-build-triggers-and-automate-the-cicd-524c743ee669) *(Oct 2022 • Google Cloud - Community)*
+- [**Approach 1: Integrating GitLab Repository with Cloud Build Triggers via Webhook**](https://medium.com/google-cloud/approach-1-integrating-gitlab-repository-with-cloud-build-triggers-via-webhook-and-creating-ci-cd-2f9d3327936b) *(Oct 2022 • Google Cloud - Community)*
+- [**Deep Dive into CI/CD with GKE through Google Cloud Build and Google Cloud Deploy (Part 2)**](https://blog.searce.com/deep-dive-into-ci-cd-with-gke-through-google-cloud-build-and-google-cloud-deploy-part-2-e2b03e9b02c8) *(Jun 2022 • Searce)*
 
 ---
 
@@ -104,3 +107,4 @@ Read all articles on [**Medium (`@sanketbisne`)**](https://medium.com/@sanketbis
 - 📸 **Instagram:** [@sanket_bisne](https://instagram.com/sanket_bisne)
 - 📺 **Featured Google Session:** [Extend FastMCP servers with AI (YouTube)](https://www.youtube.com/watch?v=jNU_7WSidB4)
 - ✉️ **Email:** [sanketbisne@gmail.com](mailto:sanketbisne@gmail.com)
+
