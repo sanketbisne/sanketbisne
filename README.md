@@ -13,7 +13,7 @@
 [![X](https://img.shields.io/badge/X-@SanketBisne1-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SanketBisne1)
 [![Instagram](https://img.shields.io/badge/Instagram-@sanket__bisne-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sanket_bisne)
 [![YouTube](https://img.shields.io/badge/YouTube-Build_the_Next-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=jNU_7WSidB4)
-[![Email](https://img.shields.io/badge/Email-sanketbisne%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketbisne@gmail.com)
+[![Invite to Speak](https://img.shields.io/badge/Invite-Contact_Form-1A73E8?style=for-the-badge&logo=google-chat&logoColor=white)](https://sanketbisne.github.io/#contact)
 
 </div>
 
@@ -76,7 +76,7 @@ My work bridges **enterprise cloud infrastructure** and **Agentic AI**—buildin
 - **AgentCon / Global AI:** *Developer Efficiency with AI Tools: Google ADK & Gemini CLI*
 - **GDG Cloud Workshops:** *Build with AI: Autonomous Agents & Tool-Calling Lifecycles* • *Demystifying GKE Multi-Tenancy & Zero Trust Networking*
 
-> Organizing a conference, meetup, or technical workshop? Check my full speaker dossier on [**Sessionize**](https://sessionize.com/sanketbisne) or reach out via [**sanketbisne@gmail.com**](mailto:sanketbisne@gmail.com).
+> Organizing a conference, meetup, or technical workshop? Check my full speaker dossier on [**Sessionize**](https://sessionize.com/sanketbisne) or send an invite via [**my website contact form**](https://sanketbisne.github.io/#contact).
 
 ---
 
@@ -106,5 +106,5 @@ Read all articles on [**Medium (`@sanketbisne`)**](https://medium.com/@sanketbis
 - 🐦 **X (Twitter):** [@SanketBisne1](https://x.com/SanketBisne1)
 - 📸 **Instagram:** [@sanket_bisne](https://instagram.com/sanket_bisne)
 - 📺 **Featured Google Session:** [Extend FastMCP servers with AI (YouTube)](https://www.youtube.com/watch?v=jNU_7WSidB4)
-- ✉️ **Email:** [sanketbisne@gmail.com](mailto:sanketbisne@gmail.com)
+- ✉️ **Speaker & Collaboration Inquiries:** [sanketbisne.github.io/#contact](https://sanketbisne.github.io/#contact)
 
